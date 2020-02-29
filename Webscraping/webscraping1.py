@@ -11,8 +11,6 @@ lister =r.html.find(".titleColumn")
 
 rate =r.html.find(".imdbRating strong")
 
-
-
 image = r.html.find(".posterColumn a img")
 
 for i in range(0,len(lister)):
